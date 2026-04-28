@@ -149,7 +149,7 @@
     <string name="Perfection">"Perpekto:"</string>
     <string name="Single_Handedly">"Single-handedly:"</string>
     <string name="Dodgey">"Dodgey:"</string>
-    <string name="Self_Contained">"Self-Contained:"</string>
+    <string name="Self_Contained">"Sariling-Pinoprotektahan:"</string>
     <string name="Survivalist">"Survivalist:"</string>
     <string name="Ultramassive">"Napakalaki"</string>
     <string name="Rapid_Ascension">"Mabilisang Asensiyon:"</string>
@@ -1113,7 +1113,7 @@
     <string name="Custom_Skin_Reviewed_Notification">Ang iyong Custom Skin ay Nasuri!</string>
     <string name="You_Have_Mail_">Mayroon kang Mail Mula Kay %s!</string>
     <string name="Clan_Request_Reviewed_Notification">Ang Iyong Request Para Makasali Sa Clan %s Ay Nasuri!</string>
-    <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
+    <string name="CRAZY_SPLIT">BALIW NA PAGHIWALAY 32x</string>
     <string name="Sold_Community_Skins_">"Mga Naibetang Community Skins: "</string>
     <string name="Estimated_Earnings_">"Mga-Estimated Earnings: "</string>
     <string name="South_Africa">Timog Africa</string>
@@ -1144,8 +1144,8 @@ Commands:
 !allow {id}
 !allow reset"
 </string>
-    <string name="ID_Sort">ID Sort</string>
-    <string name="Master_Tamer">Master Tamer</string>
+    <string name="ID_Sort">Pag-uuri ng ID</string>
+    <string name="Master_Tamer">Dalubhasang Tagapaamo</string>
     <string name="Get_ALL_Pets_To_Level_100_">I-Lebel Up Lahat Ng Iyong Mga Alaga sa Lebel 100</string>
     <string name="TAMER">TAMER</string>
     <string name="Allow_Recombine">I-Allow ang Recombine</string>
@@ -1157,7 +1157,7 @@ Commands:
     <string name="delete_prompt">Sigurado ka bang gusto mong tanggalin ang iyong account? Ito ay PERMANENTE at HINDI NA MAIBABALIK!</string>
 
 
-    <string name="Type">Type</string>
+    <string name="Type">Uri</string>
     <string name="Complete_campaign_mission_">Kumpletuhin ang misyong kampanya</string>
     <string name="Specify_Reason_">I-Specify ang Rason:</string>
     <string name="FREE_FOR_ALL">LIBRE SA LAHAT</string>
